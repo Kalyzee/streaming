@@ -1,4 +1,4 @@
-from nginx-rtmp:latest
+from kalyzee/nginx-rtmp:latest
 
 RUN mkdir -p /home/hls/live
 
